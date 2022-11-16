@@ -77,3 +77,8 @@
 <summary>But also in non-interactive mode:</summary>
 <pre>$ echo "/bin/ls" | ./hsh<br>hsh main.c shell.c test\_ls\_2<br>$<br>$ cat test\_ls\_2<br>/bin/ls<br>/bin/ls<br>$<br>$ cat test\_ls\_2 | ./hsh<br>hsh main.c shell.c test\_ls\_2<br>hsh main.c shell.c test\_ls\_2<br>$</pre>
 </details>
+
+## Authors
+
+- Jude Bama
+- Wassim Ben Romdhane
